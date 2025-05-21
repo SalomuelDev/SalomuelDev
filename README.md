@@ -1,6 +1,6 @@
 <img src="https://github.com/SalomuelDev/SalomuelDev/blob/main/foto-pixel.png" alt="Texto Alternativo" height="600px">
 
-# Olá, sou o Salomuel, sou um estudante de programação voltado a java e criação de jogos!
+# Olá, sou um estudante de programação voltado a java e criação de jogos!
 
 - Estou estudando GML(Game Maker) e Java☕.
 
