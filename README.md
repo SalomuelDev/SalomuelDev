@@ -1,4 +1,4 @@
-
+<img src="https://github.com/SalomuelDev/SalomuelDev/blob/main/foto-pixel.png" alt="Texto Alternativo" height="600px">
 
 # Olá...
 
